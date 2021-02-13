@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Damian - @trzcinskiD
+- 👀 I’m interested in make my live easier and to do things more efficient.
+- 🌱 I’m currently learning substrate blockchain.
+- 💞️ I’m looking to collaborate on cryptocurrency related project.
+- 📫 How to reach me: trzcinskid0@gmail.com
